@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\WizardsAndNinjas\bin\Debug\net6.0\WizardsAndNinjas.exe
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\WizardsAndNinjas\bin\Debug\net6.0\WizardsAndNinjas.deps.json
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\WizardsAndNinjas\bin\Debug\net6.0\WizardsAndNinjas.runtimeconfig.json
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\WizardsAndNinjas\bin\Debug\net6.0\WizardsAndNinjas.dll
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\WizardsAndNinjas\bin\Debug\net6.0\WizardsAndNinjas.pdb
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\WizardsAndNinjas\obj\Debug\net6.0\WizardsAndNinjas.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\WizardsAndNinjas\obj\Debug\net6.0\WizardsAndNinjas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\WizardsAndNinjas\obj\Debug\net6.0\WizardsAndNinjas.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\WizardsAndNinjas\obj\Debug\net6.0\WizardsAndNinjas.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\WizardsAndNinjas\obj\Debug\net6.0\WizardsAndNinjas.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\WizardsAndNinjas\obj\Debug\net6.0\WizardsAndNinjas.dll
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\WizardsAndNinjas\obj\Debug\net6.0\refint\WizardsAndNinjas.dll
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\WizardsAndNinjas\obj\Debug\net6.0\WizardsAndNinjas.pdb
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\WizardsAndNinjas\obj\Debug\net6.0\WizardsAndNinjas.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\WizardsAndNinjas\obj\Debug\net6.0\ref\WizardsAndNinjas.dll
